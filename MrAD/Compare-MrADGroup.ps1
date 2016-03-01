@@ -1,5 +1,5 @@
 ﻿#Requires -Version 3.0
-#Requires -Modules ActiveDirectory
+#Add 'Requires -Modules ActiveDirectory' if used without the script module
 function Compare-MrADGroup {
 
 <#
